@@ -3,7 +3,7 @@
 
 # Bike Share Project
 
-Describe what your project is about and what it does
+Something about Bikes and Sharing
 
 ## Information about how to use your project
 
